@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/quoteextractor-for-social-media-221-233/frontend_react"
+}
